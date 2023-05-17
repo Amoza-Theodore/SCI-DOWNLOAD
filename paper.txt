@@ -1,0 +1,69 @@
+Spectral 6DOF Registration of Noisy 3D Range Data with Partial Overlap
+Snapshot Compressive ToF+Spectral Imaging via Optimized Color-Coded Apertures
+Rank Minimization for Snapshot Compressive Imaging
+Joint Camera Spectral Response Selection and Hyperspectral Image Recovery
+Recurrent Neural Networks for Snapshot Compressive Imaging
+Iterative Quantization: A Procrustean Approach to Learning Binary Codes for Large-Scale Image Retrieval
+Adaptive Nonlocal Sparse Representation for Dual-Camera Compressive Hyperspectral Imaging
+MHF-Net: An Interpretable Deep Network for Multispectral and Hyperspectral Image Fusion
+Non-Local Meets Global: An Iterative Paradigm for Hyperspectral Image Restoration
+Coded Hyperspectral Image Reconstruction Using Deep External and Internal Learning
+A Prism-Mask System for Multispectral Video Acquisition
+Spectral Symmetry Analysis
+DASC: Robust Dense Descriptor for Multi-Modal and Multi-Spectral Correspondence Estimation
+Learning Full Pairwise Affinities for Spectral Segmentation
+Discriminative Illumination: Per-Pixel Classification of Raw Materials Based on Optimal Projections of Spectral BRDF
+FOCUSR: Feature Oriented Correspondence Using Spectral Regularization--A Method for Precise Surface Matching
+Unsupervised Object Segmentation with a Hybrid Graph Model (HGM)
+High-Speed Hyperspectral Video Acquisition By Combining Nyquist and Compressive Sampling
+WESD--Weighted Spectral Distance for Measuring Shape Dissimilarity
+Polynomial Time Algorithms for Ratio Regions and a Variant of Normalized Cut
+Reflectance and Fluorescence Spectral Recovery via Actively Lit RGB Images
+Estimation of Wetness and Color from a Single Multispectral Image
+Prior Image Guided Snapshot Compressive Spectral Imaging
+Motion Segmentation in the Presence of Outlying, Incomplete, or Corrupted Trajectories
+Separating Reflective and Fluorescent Components Using High Frequency Illumination in the Spectral Domain
+Contour Detection and Hierarchical Image Segmentation
+Hyperspectral Recovery from RGB Images using Gaussian Processes
+Minimum-Distortion Isometric Shape Correspondence Using EM Algorithm
+Finding the Secret of Image Saliency in the Frequency Domain
+The Structure of Multiplicative Motions in Natural Imagery
+Large Graph Clustering With Simultaneous Spectral Embedding and Discretization
+A Tensor-Based Algorithm for High-Order Graph Matching
+Adversarial Cross-Spectral Face Completion for NIR-VIS Face Recognition
+Deep Gaussian Scale Mixture Prior for Image Reconstruction
+Unsupervised Spectral Mesh Segmentation Driven by Heterogeneous Graphs
+From Handcrafted to Deep Features for Pedestrian Detection: A Survey
+Dense Cross-Modal Correspondence Estimation With the Deep Self-Correlation Descriptor
+Unsupervised Image Categorization by Hypergraph Partition
+Hyperspectral Light Field Stereo Matching
+Shape and Reflectance Reconstruction Using Concentric Multi-Spectral Light Field
+Hierarchical Aligned Cluster Analysis for Temporal Clustering of Human Motion
+Color Constancy with Spatio-Spectral Statistics
+A Probabilistic Approach to Spectral Graph Matching
+3D Rigid Motion Segmentation with Mixed and Unknown Number of Models
+Iterative Knowledge Exchange Between Deep Learning and Space-Time Spectral Clustering for Unsupervised Segmentation in Videos
+Multiway Spectral Clustering with Out-of-Sample Extensions through Weighted Kernel PCA
+Discriminative Multiple Instance Hyperspectral Target Characterization
+Learning Spectral Descriptors for Deformable Shape Correspondence
+Segmentation of 3D Meshes Usingp-Spectral Clustering
+Kronecker-Basis-Representation Based Tensor Sparsity and Its Applications to Tensor Recovery
+Tensor Representations for Action Recognition
+Extremely Low Bit-Rate Nearest Neighbor Search Using a Set Compression Tree
+Diagnosing and Preventing Instabilities in Recurrent Video Processing
+Sparse Subspace Clustering: Algorithm, Theory, and Applications
+Proximity-Based Frameworks for Generating Embeddings from Multi-Output Data
+Asymmetric Distances for Binary Embeddings
+Learnable Pooling in Graph Convolutional Networks for Brain Surface Analysis
+Power Normalizations in Fine-Grained Image, Few-Shot Image and Graph Classification
+Efficient High Order Matching
+Active Clustering with Model-Based Uncertainty Reduction
+The Bayesian Cut
+Reconstruction of Geometric and Optical Parameters of Non-Planar Objects with Thin Film
+Fast and Robust Recursive Algorithmsfor Separable Nonnegative Matrix Factorization
+Semi-Supervised Hashing for Large-Scale Search
+Orthogonal Deep Neural Networks
+Multiview Clustering: A Scalable and Parameter-Free Bipartite Graph Fusion Method
+On Sensor Bias in Experimental Methods for Comparing Interest-Point, Saliency, and Recognition Algorithms
+Tensor Robust Principal Component Analysis with a New Tensor Nuclear Norm
+Egocentric Meets Top-View
